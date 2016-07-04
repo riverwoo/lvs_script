@@ -1,5 +1,5 @@
 #!/bin/bash
-# description: Config realserver lo and apply noarp
+# description: Config realserver lo and apply noarp.
  
 SNS_VIP=10.0.2.245
  
