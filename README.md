@@ -1,3 +1,4 @@
 # 脚本说明
 将lvs_real脚本放到后端web服务器
-#路径：/etc/init.d/
+#
+存放路径：/etc/init.d/
